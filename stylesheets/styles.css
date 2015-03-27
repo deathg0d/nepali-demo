@@ -282,7 +282,8 @@ textarea, input{
 	border: 1px rgb(153, 212, 239) solid; 
 	margin-top:0px; 
 	height: 20px;
-	padding: 20px;
+	padding: 10px;
+	width: 190px;
 	outline: none;
 }
 
