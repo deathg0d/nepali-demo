@@ -266,6 +266,26 @@ textarea, input{
   display: none;
 }
 
+#mainSearchDiv{
+	margin-top: 5px;
+}
+#searchButton{
+	height: 26px; 
+	width: 26px; 
+	padding: 8px;
+	background: rgb(153, 212, 239) url('http://uxrepo.com/static/icon-sets/ionicons/svg/ios7-search-strong.svg') no-repeat center center;
+	background-size: 20px;
+	position: absolute;
+	margin-left: 210px;
+}
+#inpField{
+	border: 1px rgb(153, 212, 239) solid; 
+	margin-top:0px; 
+	height: 20px;
+	padding: 20px;
+	outline: none;
+}
+
 .blueshade{
   color: #11A4BE;
 }
