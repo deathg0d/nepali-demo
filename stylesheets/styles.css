@@ -261,6 +261,10 @@ textarea, input{
   padding:10px;
 }
 
+.youtubeIframe{
+  max-width: 100% !important;
+}
+
 
 .naya_convert{
   display: none;
