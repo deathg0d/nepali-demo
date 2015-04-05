@@ -266,6 +266,10 @@ textarea, input{
   max-width: 100% !important;
 }
 
+.fontBigger{
+   font-size: 18px;
+}
+
 
 .naya_convert{
   display: none;
