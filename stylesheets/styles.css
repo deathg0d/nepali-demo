@@ -302,3 +302,7 @@ textarea, input{
 .font18{
   font-size: 18px;	
 }
+
+.fontWeightBold{
+  font-weight: bold;	
+}
